@@ -1,3 +1,5 @@
+#FedFeat: A Novel Framework for Robust Federated Learning Through Federated Aggregation and Feature-Based Classifier Retraining 
+
 # Federated Learning Baselines with FedFeat
 
 This repository provides implementations and experimental settings for various federated learning methods with and without **FedFeat**, evaluated across multiple model architectures and datasets.
