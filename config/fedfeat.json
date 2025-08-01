@@ -1,1 +1,19 @@
+{
+    "dataset": "mnist",
+    "method_name": "FedAvg",
+    "convnet_type": "cnn",
+    "FedFeat": true,
+    "batch_size" : 128,
+    "device": "2",
+    "seed": [1998],
+    "num_clients_per_round" : 10,
+    "num_local_epochs" : 5,
+    "lr" : 0.05,
+    "max_rounds" : 100,
+    "data_shape": [1, 28, 28],
+    "num_classes" : 10,
+    "num_global_epochs" : 10,
+    "global_lr" : 0.001
+}
+
 
