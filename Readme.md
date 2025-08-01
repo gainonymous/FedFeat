@@ -1,4 +1,4 @@
-#FedFeat: A Novel Framework for Robust Federated Learning Through Federated Aggregation and Feature-Based Classifier Retraining 
+# FedFeat: A Novel Framework for Robust Federated Learning Through Federated Aggregation and Feature-Based Classifier Retraining 
 
 # Federated Learning Baselines with FedFeat
 
