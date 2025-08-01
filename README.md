@@ -38,9 +38,24 @@ Disable with: `--fedfeat False`
 | MNIST           | `mnist`     |
 | Fashion-MNIST   | `fashionmnist`    |
 
--- MNIST/Fashion-MNIST: "num_classes" : 10,  "data_shape": [1, 28, 28],
--- CIFAR 10: "num_classes" : 10, "data_shape": [3, 32, 32],
--- CIFAR 100: "num_classes" : 100, "data_shape": [3, 32, 32],
+## 📚 Dataset Specifications
+
+- **MNIST**
+  - `num_classes`: `10`
+  - `data_shape`: `[1, 28, 28]`
+
+- **Fashion-MNIST**
+  - `num_classes`: `10`
+  - `data_shape`: `[1, 28, 28]`
+
+- **CIFAR-10**
+  - `num_classes`: `10`
+  - `data_shape`: `[3, 32, 32]`
+
+- **CIFAR-100**
+  - `num_classes`: `100`
+  - `data_shape`: `[3, 32, 32]`
+
 ---
 
 ## ⚙️ Learning Rate Settings
