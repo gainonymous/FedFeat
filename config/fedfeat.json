@@ -9,7 +9,7 @@
     "num_clients_per_round" : 10,
     "num_local_epochs" : 5,
     "lr" : 0.05,
-    "max_rounds" : 100,
+    "max_rounds" : 50,
     "data_shape": [1, 28, 28],
     "num_classes" : 10,
     "num_global_epochs" : 10,
